@@ -240,7 +240,7 @@ The chosen spectral parameters are*:
 * G = BDI1000IR
 * B = MIN_2295_2480
 
-<img src="crism_car_olivine_horgan.png">
+<img src="images/crism_car_olivine_horgan.png">
 
 Red is for Olivine-rich areas. Cyan/blue indicates strong carbonate signature but weak olivine. Yellow/white highlights strong carbonate and strong olivine signature. Green is for relatively olivine-poor areas with other Fe-bearing phases (e.g., clays). 
 
