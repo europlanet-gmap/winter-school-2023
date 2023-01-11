@@ -8,12 +8,12 @@ The CRS of the GIS project for the Winter school is, in proj4:
 
 or, using the OGC/IAU newer codes:
 
-```IAU_2015:49910```
+```IAU_2015:30110```
 
 see also:  
 
 * https://www.hou.usra.edu/meetings/planetdata2021/pdf/7012.pdf
-* http://voparis-vespa-crs.obspm.fr:8080/ws/IAU/2015/49910
+* http://voparis-vespa-crs.obspm.fr:8080/ws/IAU/2015/30110
 * http://voparis-vespa-crs.obspm.fr:8080/web/moon.html
 
 ## Dataset
