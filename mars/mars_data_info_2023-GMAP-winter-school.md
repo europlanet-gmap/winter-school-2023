@@ -188,6 +188,8 @@ This is an enhanced infrared false colour representation of the scene, and it is
 * G = R1506 (reflectance at 1506 nm)
 * B = R1080 (reflectance at 1080 nm)
 
+![FAL](https://github.com/europlanet/winter-school-2023/blob/main/mars/images/crism_fal?raw=true)
+
 Red/orange colours indicate olivine-rich material. Blue/green indicate carbonates and clays. Grey/brown colours indicate basaltic material.
 
 **Mafic browse product (MAF):**
