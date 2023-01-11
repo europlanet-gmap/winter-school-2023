@@ -1,5 +1,33 @@
 # 2023 GMAP Winter School - Moon data sources
 
+- [2023 GMAP Winter School - Moon data sources](#2023-gmap-winter-school---moon-data-sources)
+  * [LROC WAC Mosaic](#lroc-wac-mosaic)
+    + [Access URL](#access-url)
+    + [Citation](#citation)
+    + [Filename(s)](#filename-s-)
+    + [CRS](#crs)
+  * [LOLA and Kaguya TC merged DEM 60N-60S 59m/pixel](#lola-and-kaguya-tc-merged-dem-60n-60s-59m-pixel)
+    + [Access URL](#access-url-1)
+    + [Citation](#citation-1)
+    + [Filename(s)](#filename-s--1)
+    + [CRS](#crs-1)
+  * [Kaguya Multiband Imager Mineral Maps](#kaguya-multiband-imager-mineral-maps)
+    + [Access URL](#access-url-2)
+    + [Citation](#citation-2)
+    + [Filename(s)](#filename-s--2)
+    + [CRS](#crs-2)
+  * [LROC NAC regional mosaics (Copernicus)](#lroc-nac-regional-mosaics--copernicus-)
+    + [Access URL](#access-url-3)
+    + [Citation](#citation-3)
+    + [Filename(s)](#filename-s--3)
+    + [CRS](#crs-3)
+  * [Clementine UVVIS Warped Color Ratio Mosaic 200m v1](#clementine-uvvis-warped-color-ratio-mosaic-200m-v1)
+    + [Access URL](#access-url-4)
+    + [Citation](#citation-4)
+    + [Filename(s)](#filename-s--4)
+    + [CRS](#crs-4)
+- [References](#references)
+
 Data sources are indicated below, together with relevant publications and Coordinate Reference Systems (CRS) of data as provided for the Winter School, provided as [pro4](https://proj.org) (Proj contributors, 2020) string. Please note the original CRS might differ. See also the latest developments on OGC IAU codes (e.g. Hare and Malapert, 2021).
 
 The CRS of the GIS project for the Winter school is, in proj4:
