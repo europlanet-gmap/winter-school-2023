@@ -201,7 +201,7 @@ The chosen spectral parameters are:
 * G = LCPINDEX2
 * B = HCPINDEX2
 
-<img src="images/crism_fal.maf">
+<img src="images/crism_maf.png">
 
 Red is for olivine-rich materials, although Fe-phyllosilicates can be highlighted as well. Green/cyan indicates low-calcium pyroxenes. Blue/magenta indicates high-calcium pyroxenes.
 
