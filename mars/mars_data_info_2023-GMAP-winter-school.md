@@ -188,7 +188,7 @@ This is an enhanced infrared false colour representation of the scene, and it is
 * G = R1506 (reflectance at 1506 nm)
 * B = R1080 (reflectance at 1080 nm)
 
-![FAL](https://github.com/europlanet/winter-school-2023/blob/main/mars/images/crism_fal?raw=true)
+<img src="images/crism_fal.png">
 
 Red/orange colours indicate olivine-rich material. Blue/green indicate carbonates and clays. Grey/brown colours indicate basaltic material.
 
@@ -201,6 +201,8 @@ The chosen spectral parameters are:
 * G = LCPINDEX2
 * B = HCPINDEX2
 
+<img src="images/crism_fal.maf">
+
 Red is for olivine-rich materials, although Fe-phyllosilicates can be highlighted as well. Green/cyan indicates low-calcium pyroxenes. Blue/magenta indicates high-calcium pyroxenes.
 
 **Phyllosilicate browse product (PHY):**
@@ -211,6 +213,8 @@ The chosen spectral parameters are:
 * R = D2300
 * G = D2200
 * B = BD1900R2
+
+<img src="images/crism_phy.png">
 
 Fe/Mg-OH bearing minerals (e.g., Fe/Mg phyllosilicates) appear red, or magenta when hydrated. Al/Si-OH bearing minerals (e.g., Al-phyllosilicates or hydrated silica) will appear green, or cyan when hydrated. Blue colours are indicative of other hydrated minerals. Yellow/whiteish areas are carbonate-rich (see next browse products).
 
@@ -223,6 +227,8 @@ The chosen parameters are:
 * G = BD2500_2
 * BD1900_2
 
+<img src="images/crism_car.png">
+
 Bright yellow/green/white colours indicate Mg carbonates. Magenta colours indicate Fe/Mg-phyllosilicates. 
 
 **Carbonates (and olivine) custom browse product (from Horgan et al., 2020):**
@@ -233,6 +239,8 @@ The chosen spectral parameters are*:
 * R = BD1300
 * G = BDI1000IR
 * B = MIN_2295_2480
+
+<img src="crism_car_olivine_horgan.png">
 
 Red is for Olivine-rich areas. Cyan/blue indicates strong carbonate signature but weak olivine. Yellow/white highlights strong carbonate and strong olivine signature. Green is for relatively olivine-poor areas with other Fe-bearing phases (e.g., clays). 
 
