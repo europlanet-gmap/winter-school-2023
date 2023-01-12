@@ -32,11 +32,13 @@ Info on data used for the Coordinate Reference System (CRS) intro on [CRS data i
 * https://www.giss.nasa.gov/tools/gprojector/
 
 
-# References
+# References and suggested readings
 
 Georgiadou, P.Y., Knippers, R.A., Kraak, M.J., Sun, Y., Weir, M.J.C. and van Westen, C.J. Principles of geographic information systems (Chapter 4.2 on spatial referencing), 2nd edition, ITC Educational Textbook, ITC, Enschede, 2001. Available online at https://webapps.itc.utwente.nl/librarywww/papers_2009/general/principlesgis.pdf 
 
 Hare, T.M., Skinner, J.A., Kirk, R.L. (2018). Cartography Tools. In: Rossi, A., van Gasselt, S. (eds) Planetary Geology. Springer Praxis Books(). Springer, Cham. https://doi.org/10.1007/978-3-319-65179-8_4
+
+Hare, T. M., & Malapert, J. C. (2021). Standards Proposal for 2021 to Support Planetary Coordinate Reference Systems for Open Geospatial Web Services. LPI Contributions, 2549, 7012.
 
 Hargitai, H., Wang, J., Stooke, P.J., Karachevtseva, I., Kereszturi, A., Gede, M. (2017). Map Projections in Planetary Cartography. In: Lapaine, M., Usery, E. (eds) Choosing a Map Projection. Lecture Notes in Geoinformation and Cartography(). Springer, Cham. https://doi.org/10.1007/978-3-319-51835-0_7 
 
