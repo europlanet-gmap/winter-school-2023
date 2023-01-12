@@ -331,6 +331,22 @@ mosaic_B_Floor.tif (269 Mb)
 
 ```'+proj=eqc +lat_ts=0 +lat_0=0 +lon_0=0 +x_0=0 +y_0=0 +R=3396190 +units=m +no_defs'```
 
+## Morphometric parameters
+
+### Access URL 
+
+Not applicable, custom-produced for the school
+
+### Citation
+
+### Filename(s)
+
+### CRS
+
+```'+proj=eqc +lat_ts=0 +lat_0=0 +lon_0=0 +x_0=0 +y_0=0 +R=3396190 +units=m +no_defs'```
+
+(originally native CRS of data products)
+
 --- 
 
 # References
