@@ -23,6 +23,7 @@ Info on data used for the Coordinate Reference System (CRS) intro on [CRS data i
 ## Libraries
 
 * Cartopy - https://scitools.org.uk/cartopy/docs/latest/index.html
+* Proj - https://proj.org
 
 ## Tools and web services 
 
