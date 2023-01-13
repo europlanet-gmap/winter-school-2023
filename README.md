@@ -8,3 +8,9 @@ Data are provided separately via cloud links. Later they will be available via t
 See also: 
 
 - Agenda on https://indico.obspm.fr/event/1713/timetable/#20230130.detailed
+
+--- 
+
+<sup>This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 871149. </sup>
+
+<sup>Banner image derived from ESA / MEX / HRSC / DLR / FU Berlin / [USGS](https://pubs.usgs.gov/sim/3292/) / [Aster Cowart](https://www.flickr.com/photos/132160802@N06/). </sup>
