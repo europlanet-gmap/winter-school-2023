@@ -25,6 +25,10 @@ The timetable of the school is available at:
 
 https://indico.obspm.fr/event/1713/timetable/#20230130.detailed
 
+# Additional resources
+
+- https://github.com/europlanet-gmap/awesome-planetary-geology
+  
 --- 
 
 <sup>[Europlanet H2024 RI](https://www.europlanet-society.org/europlanet-2024-ri/) has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 871149. </sup>
