@@ -5,9 +5,17 @@ This is the companion repository for the GMAP Winter School 2023 (https://www.pl
 
 Data are provided separately via cloud links. Later they will be available via the [Zenodo GMAP Community](https://zenodo.org/communities/gmap), similarly to the [previous school](https://indico.obspm.fr/event/1272/).
 
-See also: 
+## Content of the repo
 
-- Agenda on https://indico.obspm.fr/event/1713/timetable/#20230130.detailed
+Materials are divided by topic/block with descriptive names:
+
+- Coordinate reference systems (CRS) - on [crs](crs/README.md)
+
+## Agenda
+
+The timetable of the school is available at:
+
+https://indico.obspm.fr/event/1713/timetable/#20230130.detailed
 
 --- 
 
