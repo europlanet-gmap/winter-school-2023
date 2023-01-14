@@ -25,7 +25,7 @@ The timetable of the school is available at:
 
 https://indico.obspm.fr/event/1713/timetable/#20230130.detailed
 
-# Additional resources
+## Additional resources
 
 - https://github.com/europlanet-gmap/awesome-planetary-geology
   
