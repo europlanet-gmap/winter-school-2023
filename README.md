@@ -1,5 +1,5 @@
 ![header](https://www.planetarymapping.eu/files/source/images/banner_ws2023.jpg)
-# GMAP Winter School 2023 in planetary geologic mapping
+# 2023 GMAP Winter School in planetary geologic mapping
 
 This is the companion repository for the GMAP Winter School 2023 (https://www.planetarymapping.eu). It contains materials, documents, references, and internet resources relevant to the school activity. 
 
