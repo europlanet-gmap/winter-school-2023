@@ -10,6 +10,13 @@ Data are provided separately via cloud links. Later they will be available via t
 Materials are divided by topic/block with descriptive names:
 
 - Coordinate reference systems (CRS) - on [crs](crs/README.md)
+- QGIS - on [qgis](qgis/README.md)
+- Mappy - on [mappy](maopy.README.md)
+- GMAP tools - on [gmap-tools](gmap-tools/README.md)
+- Landing site traficability - on [traficability](traficability/README.md)
+- The Moon (Copernicus crater) - on [moon](moon/README.md)
+- Mars (Jezero crater) - on [mars](mars/README.md)
+- Machine learning - on [machine-learning](machine-learning/README.md)
 
 ## Agenda
 
