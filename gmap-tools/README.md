@@ -1,12 +1,11 @@
 # Data Management and Processing tools
 
-Relevant tools:
+## Overview
 
-- Invenio
-- Zenodo
-- Jupyter
-- [docker-isis](https://github.com/europlanet-gmap/docker-isis3)
-- [ISIS/ASP](https://github.com/europlanet-gmap/PyISIS-Parallel)
+In GMAP we put together a set of tools to facilitate the access and processing of planetary data. Two of them we are going to present next and show you how you can user them.
+
+The first tool is the Jupyter-Lab-Hub environment with a complete set of Python and command-line tools for planetary data analysis.
+Then, we present the plataform we use for data publication, Invenio-RDM, very similar to the well-known Zenodo.
 
 Relevant GMAP services:
 
@@ -14,13 +13,6 @@ Relevant GMAP services:
 - GMAP wiki - https://wiki.europlanet-gmap.eu
 - GMAP Jupyter Hub - https://jupyter.europlanet-gmap.eu
 
-
-## Overview
-
-In GMAP we put together a set of tools to facilitate the access and processing of planetary data. Two of them we are going to present next and show you how you can user them.
-
-The first tool is the Jupyter-Lab-Hub environment with a complete set of Python and command-line tools for planetary data analysis.
-Then, we present the plataform we use for data publication, Invenio-RDM, very similar to the well-known Zenodo.
 
 ## Jupyter-Lab-Hub
 
@@ -38,6 +30,13 @@ We start by presenting GMAP JupyterHub service -- which is available for the (al
     - Written tutorial/steps to have it running
     - _Remember ISISDATA_
 
+
+Reference links:
+
+- Docker-isis repository: https://github.com/europlanet-gmap/docker-isis3
+- ISIS/ASP repository: https://github.com/europlanet-gmap/PyISIS-Parallel
+
+
 ## Invenio/Zenodo
 
 Research data management is a very hot topic these days, not only the amount of scientific data grows as we speak but, more importantly, the interest for scientific data has never been so high.
@@ -51,3 +50,7 @@ At GMAP we deploy an instance of Invenio-RDM publishing our internal data packag
     - How to consume a package (notebook)
 - Present Invenio and Invenio-test
     - How to publish a package
+
+Reference links:
+
+- Invenio docs: https://inveniordm.docs.cern.ch/
