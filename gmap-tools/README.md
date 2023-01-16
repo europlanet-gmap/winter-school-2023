@@ -1,5 +1,20 @@
 # Data Management and Processing tools
 
+Relevant tools:
+
+- Invenio
+- Zenodo
+- Jupyter
+- [docker-isis](https://github.com/europlanet-gmap/docker-isis3)
+- [ISIS/ASP](https://github.com/europlanet-gmap/PyISIS-Parallel)
+
+Relevant GMAP services:
+
+- GMAP Data portal - https://data.europlanet-gmap.eu
+- GMAP wiki - https://wiki.europlanet-gmap.eu
+- GMAP Jupyter Hub - https://jupyter.europlanet-gmap.eu
+
+
 ## Overview
 
 In GMAP we put together a set of tools to facilitate the access and processing of planetary data. Two of them we are going to present next and show you how you can user them.
@@ -36,5 +51,3 @@ At GMAP we deploy an instance of Invenio-RDM publishing our internal data packag
     - How to consume a package (notebook)
 - Present Invenio and Invenio-test
     - How to publish a package
-
-
