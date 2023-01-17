@@ -2,6 +2,8 @@
 
 Info on data used for the Coordinate Reference System (CRS) intro on [CRS data info](crs_data_info_2023-GMAP-winter-school.md)
 
+Some example on [notebooks/Jezero-map-projections.ipynb](notebooks/Jezero-map-projections.ipynb)
+
 ## Books (openly available)
 
 * Snyder (1987) Map projections: A working manual - https://pubs.er.usgs.gov/publication/pp1395 / https://doi.org/10.3133/pp1395 
