@@ -50,6 +50,7 @@ At GMAP we deploy an instance of Invenio-RDM publishing our internal data packag
     - How to consume a package (notebook)
 - Present Invenio and Invenio-test
     - How to publish a package
+    - Share/teach GMAP metadata
 
 Reference links:
 
