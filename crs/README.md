@@ -48,7 +48,6 @@ Knippers, R., (2009) Geometric aspects of mapping, available online at https://k
 
 NAIF (2022) An Overview of Reference Frames and Coordinate Systems in the SPICE Context available online at https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/17_frames_and_coordinate_systems.pdf 
 
-Šavrič, B,, Jenny B,  Jenny H. (2016) Projection Wizard – An Online Map Projection Selection 
+Šavrič, B,, Jenny B,  Jenny H. (2016) Projection Wizard – An Online Map Projection Selection Tool, The Cartographic Journal, 53:2, 177-185, DOI: 10.1080/00087041.2015.1131938
 
-Tool, The Cartographic Journal, 53:2, 177-185, DOI: 10.1080/00087041.2015.1131938
 Snyder, J. P. (1987). Map projections--A working manual (Vol. 1395). US Government Printing Office - https://pubs.er.usgs.gov/publication/pp1395
