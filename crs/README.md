@@ -8,6 +8,8 @@ Some example on [notebooks/Jezero-map-projections.ipynb](notebooks/Jezero-map-pr
 
 * Snyder (1987) Map projections: A working manual - https://pubs.er.usgs.gov/publication/pp1395 / https://doi.org/10.3133/pp1395 
 
+* Snyder, J. P., & Voxland, P. M. (1989). An album of map projections (No. 1453). US Government Printing Office. - https://pubs.er.usgs.gov/publication/pp1453 / https://doi.org/10.3133/pp1453
+
 * Huisman and de By (2009) Principles of Geographic Information Systems - https://webapps.itc.utwente.nl/librarywww/papers_2009/general/principlesgis.pdf
 
 ## General useful resources:
