@@ -24,12 +24,14 @@ Some example on [notebooks/Jezero-map-projections.ipynb](notebooks/Jezero-map-pr
   * https://en.wikipedia.org/wiki/List_of_map_projections
   * https://www.giss.nasa.gov/tools/gprojector/help/projections/
 
-## Libraries
+## Libraries and tools
 
 * Cartopy - https://scitools.org.uk/cartopy/docs/latest/index.html
 * Proj - https://proj.org
+* GMT - https://www.generic-mapping-tools.org
+  * e.g. https://docs.generic-mapping-tools.org/6.2/cookbook/map-projections.html#jq
 
-## Tools and web services 
+## Web services 
 
 * https://projectionwizard.org
 * http://countrymovers.elte.hu/countrymovers.html
