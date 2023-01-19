@@ -4,6 +4,7 @@ Info on data used for the Coordinate Reference System (CRS) intro on [CRS data i
 
 Some examples on: 
 
+* [notebooks/map-projections.ipynb](notebooks/map-projections.ipynb)
 * [notebooks/Jezero-map-projections.ipynb](notebooks/Jezero-map-projections.ipynb)
 
 ## Books (openly available)
