@@ -55,3 +55,14 @@ At GMAP we deploy an instance of Invenio-RDM publishing our internal data packag
 Reference links:
 
 - Invenio docs: https://inveniordm.docs.cern.ch/
+
+
+## PlanetaryDataUtils
+
+[PlanetaryDataUtils](https://github.com/europlanet-gmap/PlaneteryDataProcessing) is a collection of Jupyter Notebooks to download and process planetary data.
+
+For instance, it is possible to navigate and download CRISM, CTX, HiRISE, RDR products.
+
+Processing notebooks include L0 to L2 automated workflow for LRO NAC/WAC, Chandrayaan-1 and HiRISE.
+
+See the HiRISE_L0toL2_processing_winter_school.ipynb in the examples folder.
