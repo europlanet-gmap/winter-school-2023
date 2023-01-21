@@ -22,6 +22,7 @@ Some examples on:
 * good intro on CRS - https://mgimond.github.io/Spatial/chp09_0.html
 * good intro on CRS - https://kartoweb.itc.nl/geometrics/Introduction/introduction.html
     * see also https://webapps.itc.utwente.nl/librarywww/papers_2009/general/principlesgis.pdf
+* good intro on CRS - https://www.earthdatascience.org/courses/earth-analytics/spatial-data-r/intro-to-coordinate-reference-systems/
 * list of projections 
   * https://scitools.org.uk/cartopy/docs/v0.15/crs/projections.html#cartopy-projections
   * https://en.wikipedia.org/wiki/List_of_map_projections
