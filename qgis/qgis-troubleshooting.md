@@ -74,6 +74,17 @@ Multiple mapping profiles can be created. If you are using a specific configurat
 
 You can switch between profiles depending on your needs. We suggest creating a new “Winter School” profile to start clean.
 
+# Mappy tips
+
+During the whole school we will mainly use the Mappy plugin to easily create maps. It is 
+
+* Users must always verify the Mappy settings prior to run it. Otherwise it might possibly create damages or anyway it will produce bad results of course
+* In the output geopackage field of Mappy settings, the path shown should comprise the extension ".gpkg" or qgis won't load the layer as expected.
+* Remember to re-set the output geopackage field at the beginning to match your own setup.
+
+This is the main Mappy interface with the proper configuration. Please **make sure every time you start QGIS** that all **the input fields** (marked in red) are populated exactly as shown in the following picture:
+
+
 
 
 
