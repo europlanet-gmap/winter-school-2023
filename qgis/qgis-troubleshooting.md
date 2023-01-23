@@ -28,6 +28,17 @@ One can name the projection Moon-Equirectangular (or whatever), and add such pro
 ```
 +proj=eqc +lat_ts=0 +lat_0=0 +lon_0=0 +x_0=0 +y_0=0 +R=1737400 +units=m +no_defs
 ```
+
+### Mars mapping project 
+See also https://github.com/europlanet-gmap/winter-school-2023/blob/main/mars/mars_data_info_2023-GMAP-winter-school.md#crs
+
+One can name the projection Mars-Equirectangular (or whatever), and add such proj4 code (and validate it with the “validate” button), then save it pressing OK. It will be saved in the user profile.
+
+```
++proj=eqc +lat_ts=0 +lat_0=0 +lon_0=0 +x_0=0 +y_0=0 +R=3396190 +units=m +no_defs
+```
+
+
 --- 
 
 <sup>While still being edited, the file is available at:</sup>
