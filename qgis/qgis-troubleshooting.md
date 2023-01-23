@@ -44,7 +44,7 @@ Data provided for the hands-on are already pre-projected in metric coordinates. 
 
 In the GIS Project, open its Properties with the menu item **Project → Properties**
 
-And In** General set the Measurement to “None/Planimetric”**
+And In **General set the Measurement to “None/Planimetric”**
 
 One can then proceed to add the decoration scale bar with the menu **View → Decorations → Scale bar**
 
