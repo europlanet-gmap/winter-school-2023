@@ -41,6 +41,10 @@ Some examples on:
 * http://countrymovers.elte.hu/countrymovers.html
 * https://www.giss.nasa.gov/tools/gprojector/
 
+# Videos and introductions
+
+* Stephan Van Gasselt (2015) Planetary GIS: An introduction - ESA Planetary GIS Workshop https://www.youtube.com/watch?v=hOiJWqDSP_Q 
+* Trent Hare (2015) Why cartography Matters for GIS - ESA Planetary GIS Workshop https://www.youtube.com/watch?v=b9Wqo2KSUNA 
 
 # References and suggested readings
 
