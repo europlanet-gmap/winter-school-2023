@@ -19,6 +19,8 @@ It might be useful to set the QGIS project properties accordingly.
 
 In order to add custom projections one could use the **Settings → Custom projections**
 
+<img src="images/custom_proj.jpg">
+
 ### Moon mapping project:
 
 See also https://github.com/europlanet-gmap/winter-school-2023/blob/main/mars/mars_data_info_2023-GMAP-winter-school.md#crs
@@ -29,6 +31,9 @@ One can name the projection Moon-Equirectangular (or whatever), and add such pro
 +proj=eqc +lat_ts=0 +lat_0=0 +lon_0=0 +x_0=0 +y_0=0 +R=1737400 +units=m +no_defs
 ```
 
+<img src="images/user_proj_moon.jpg">
+
+
 ### Mars mapping project 
 See also https://github.com/europlanet-gmap/winter-school-2023/blob/main/mars/mars_data_info_2023-GMAP-winter-school.md#crs
 
@@ -38,15 +43,25 @@ One can name the projection Mars-Equirectangular (or whatever), and add such pro
 +proj=eqc +lat_ts=0 +lat_0=0 +lon_0=0 +x_0=0 +y_0=0 +R=3396190 +units=m +no_defs
 ```
 
+<img src="images/user_proj_mars.jpg">
+
+
 ## QGIS planimetric setup to fix decoration scale and measuring
 
 Data provided for the hands-on are already pre-projected in metric coordinates. Although one can set projections as custom, in order to have the decoration scale bar (very useful) to work, the following workaround is currently needed.
 
 In the GIS Project, open its Properties with the menu item **Project → Properties**
 
+<img src="images/planimetric_1.jpg">
+
 And In **General set the Measurement to “None/Planimetric”**
 
+<img src="images/planimetric_2.jpg">
+
+
 One can then proceed to add the decoration scale bar with the menu **View → Decorations → Scale bar**
+
+<img src="images/decorations.jpg">
 
 
 ## QGIS platform-specific tips
@@ -62,6 +77,8 @@ The SIP (System Integrity Protection) on MacOS does not automatically allow to i
 * go to System Preferences -> Security and Privacy
 * Click "Open anyway"
 
+<img src="images/macos_1.jpg">
+
 For Mac OS Ventura: 
 
 (Alternatively, after the first attempt to open Qgis and MacOS not allowing it, right-click on the Qgis.app icon and pressing “Open” should do)
@@ -71,6 +88,8 @@ For Mac OS Ventura:
 Multiple mapping profiles can be created. If you are using a specific configuration with plugins and personalizations for a specific job and you want to start fresh go to:
 
 **Settings → User Profiles → New Profile**
+
+<img src="images/user_profiles.jpg">
 
 You can switch between profiles depending on your needs. We suggest creating a new “Winter School” profile to start clean.
 
@@ -84,6 +103,7 @@ During the whole school we will mainly use the Mappy plugin to easily create map
 
 This is the main Mappy interface with the proper configuration. Please **make sure every time you start QGIS** that all **the input fields** (marked in red) are populated exactly as shown in the following picture:
 
+<img src="images/mappy_source.jpg">
 
 
 
