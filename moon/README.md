@@ -14,7 +14,7 @@ Hiesinger, H., Head, J.W. (2006) New Views of Lunar Geoscience: an introduction 
 
 Hiesinger, H., Jaumann, R., Neukum, G., & Head, J. W. (2000). Ages of mare basalts on the lunar nearside. Journal of Geophysical Research: Planets, 105(E12), 29239-29275, https://doi.org/10.1029/2000JE001244.
 
-Iqbal, W., Hiesinger, H., van der Bogert, C. H., 2020: Geological mapping and chronology of the lunar landing sites: Apollo 12. Icarus, Vol. 352, 113991. 10.1016/j.icarus.2020.113991
+Iqbal, W., Hiesinger, H., van der Bogert, C. H. (2020) Geological mapping and chronology of the lunar landing sites: Apollo 12. Icarus, Vol. 352, 113991. 10.1016/j.icarus.2020.113991
 
 Spudis, P., & Pieters, C. (1991). Global and regional data about the Moon. Lunar Sourcebook, A User's Guide to the Moon, 595-632.
 Chicago, available online at: https://www.lpi.usra.edu/publications/books/lunar_sourcebook/pdf/Chapter10.pdf
