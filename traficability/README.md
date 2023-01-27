@@ -8,7 +8,7 @@ Guisan, A., Weiss, S.B., Weiss, A.D. (1999): GLM versus CCA spatial modeling of 
 
 Jenness, J. (2006). Topographic position index (TPI) v. 1.2. Flagstaff, AZ: Jenness Enterprises.
 
-Weiss, A.D. (2000): Topographic Position and Landforms Analysis. poster.
+Weiss, A.D. (2000): Topographic Position and Landforms Analysis. poster. available online at http://www.jennessent.com/downloads/tpi-poster-tnc_18x22.pdf
 
 Wilson, J.P. & Gallant, J.C. (2000): Terrain Analysis - Principles and Applications
 
