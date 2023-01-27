@@ -17,6 +17,7 @@ Materials are divided by topic/block with descriptive names:
 - The Moon (Copernicus crater) - on [moon](moon/README.md)
 - Mars (Jezero crater) - on [mars](mars/README.md)
 - Machine learning - on [machine-learning](machine-learning/README.md)
+- Venus - on [venus](venus/README.md)
 
 
 ## Agenda
