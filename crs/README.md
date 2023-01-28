@@ -28,6 +28,7 @@ Some examples on:
   * https://scitools.org.uk/cartopy/docs/v0.15/crs/projections.html#cartopy-projections
   * https://en.wikipedia.org/wiki/List_of_map_projections
   * https://www.giss.nasa.gov/tools/gprojector/help/projections/
+* _Quick Notes on Map Projections in ArcGis - https://community.esri.com/t5/coordinate-reference-systems-blog/quick-notes-on-map-projections/ba-p/902158?attachment-id=21075
 
 ## Libraries and tools
 
