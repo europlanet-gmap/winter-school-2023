@@ -1,3 +1,7 @@
+# GMAP Winter School 2023
+
+![](assets/background_gmap_winter_school_2023.jpg)
+
 # GMAP Jupyter environment
 
 In this session I'll present the JupyterLab environment we have setup for the GMAP community and how _any_ planetary data scientist can benefit from that.
