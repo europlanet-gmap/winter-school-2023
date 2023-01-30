@@ -61,6 +61,8 @@ Hargitai, H., Wang, J., Stooke, P.J., Karachevtseva, I., Kereszturi, A., Gede, M
 
 Kessler, F. C., & Battersby, S. E. (2019). Working with Map Projections. https://doi.org/10.1201/9780203731413 
 
+Kneissl, T., van Gasselt, S., & Neukum, G. (2011). Map-projection-independent crater size-frequency determination in GIS environments—New software tool for ArcGIS. Planetary and Space Science, 59(11-12), 1243-1254. https://doi.org/10.1016/j.pss.2010.03.015
+
 Knippers, R., (2009) Geometric aspects of mapping, available online at https://kartoweb.itc.nl/geometrics/index.html 
 
 NAIF (2022) An Overview of Reference Frames and Coordinate Systems in the SPICE Context available online at https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/17_frames_and_coordinate_systems.pdf 
