@@ -61,4 +61,6 @@ Such environment combine the tradicional software used by the community (GDAL, I
 
 
 ### Deploy it yourself
-tbd
+
+You can run the ISIS/ASP Jupyter containers if you want to have the same working environment on your computer; Or even the whole JupyterHub platform!
+In the repository https://github.com/europlanet-gmap/docker-isis3 you will find all the instruction to create and deploy the hub on your premises.
