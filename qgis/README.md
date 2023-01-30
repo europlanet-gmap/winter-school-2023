@@ -15,3 +15,8 @@ Assorted resources:
 * Destkop QGIS tutorial - https://github.com/ucdavisdatalab/Intro-to-Desktop-GIS-with-QGIS
 * Awesome GIS - https://github.com/sshuair/awesome-gis
 * Awesome geospatial - https://github.com/sacridini/Awesome-Geospatial
+
+## Color ramps 
+
+* see e.g. https://mycartablog.com/tag/perceptual-colormap/
+  * https://mycartablog.com/color-palettes/
