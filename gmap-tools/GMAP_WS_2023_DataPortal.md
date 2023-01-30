@@ -1,6 +1,6 @@
 # GMAP Winter School 2023
 
-![](assets/background_gmap_winter_school_2023.jpg)
+![background_gmap_winter_school_2023](assets/background_gmap_winter_school_2023.jpg)
 
 # GMAP Data publication
 
@@ -61,7 +61,7 @@ In practical terms, of interest for the participants of this school, when publis
 | - | - |
 | Title | Title of map/package |
 | Creators | Author names |
-| Description | Long description: summary of data package contents and Target body, CRS, Bounding-box as a bullet-list |
+| Description | Long description: <br/>summary of data package contents<br/>Target body<br/>CRS<br/>Bounding-box as a bullet-list |
 | Additional descriptions | Short description of each file uploaded (if any) |
 | Alternate identifiers | DOI of companion paper, if any |
 | Funding references | Acknowledgements to scholarships/funding projects |
@@ -83,6 +83,29 @@ Zenodo provides a _sandbox_ version of the site at https://sandbox.zenodo.org, w
 
 After trying and testing the right format and content of a package in Zenodo-Sandbox, you can then move to the _production_ Zenodo (https://zenodo.org) and have your package properly published for good.
 
-## Example on accessing data
+## Examples on accessing data
 
+Sometimes we want to access data in a programatic way, using Python for example. You may want to do so because you _mining_ many data resources, or because you want to create a reproducible workflow. Regardless the reason, Zenodo provides a fully-featured REST API for searching and accessing data records and their data content.
 
+### Zenodo
+In the notebook [`notebooks/download_data_from_zenodo_record.ipynb`](notebooks/download_data_from_zenodo_record.ipynb) there is a workflow exemplifying the programatic access of the Mars Craters dataset by Chiara Marmo and Anthony Lagain (2020), https://zenodo.org/record/3633594.
+
+In the notebook, we use the [Zenodo-Client](https://pypi.org/project/zenodo-client) Python library to access the record, go through the metadata associated to the record, and download one specific file (Mars craters) of our interest. Then, we explore the content of the craters table, transform the coordinates to a CRS compatible to basemap for the eventual visualization:
+
+![zenodo_craters_plot](assets/zenodo_craters_plot.png)
+
+### ADAM
+
+The basemap used in the image above (the Zenodo/Mars craters example) was downloaded from the ADAM platform, https://explorer-space.adamplatform.eu, the ADAM Space-Explorer app. The Space-Explorer was developed as part of the NEANIAS project, https://www.neanias.eu/, partner of GMAP through the Constructor University (former Jacobs University).
+
+ADAM Space-Explorer provides an interactive interface for the exploration of Martian datasets originally sourced from USGS Planetary Data System (PDS), https://ode.rsl.wustl.edu/. The data products provided by ADAM are fully calibrated (GeoTIFF) Martian images from the MRO/CTX and HiRISE experiments.
+
+In the notebook [`notebooks/search_and_download_data_product_from_adam.ipynb`](notebooks/search_and_download_data_product_from_adam.ipynb) we show how to search and download CTX images based on geographical information (bounding-box) through [ADAM API](https://pypi.org/project/adamapi/) (also a Python library).
+
+### NPT
+
+Behind ADAM Space-Explorer, at the core of the Data Processing System, there is the NEANIAS Planetary Tools Python library (NPT), https://pypi.org/project/npt/. NPT is the software responsible processing the planetary data products downloaded from USGS/PDS and being published by ADAM.
+
+With NPT you can recreate the same data products (ie, images) available on ADAM, but also access and reduce other datasets such as MEX/HRSC. You will also find tools for creating images mosaics, directly search USGS/PDS archives, and interacting with USGS/ISIS tools.
+
+For examples on using NPT, see its notebooks directory at Github: https://github.com/chbrandt/npt .
