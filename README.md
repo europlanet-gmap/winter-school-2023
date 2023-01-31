@@ -18,6 +18,7 @@ Materials are divided by topic/block with descriptive names:
 - Mars (Jezero crater) - on [mars](mars/README.md)
 - Machine learning - on [machine-learning](machine-learning/README.md)
 - Venus - on [venus](venus/README.md)
+- Contributed tools/code - on [contributed-tools](contributed-tools/REAMDE.md)
 
 
 ## Agenda
