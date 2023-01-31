@@ -23,18 +23,7 @@ We start by presenting GMAP JupyterHub service -- which is available for the (al
 
 > Jupyter Notebook is a well-known software for interactive data analysis in the data science community. Primarily developed for the Python language ecosystem, Jupyter Notebook evolved into Jupyter-Lab to provide a graphical interface very similar in functionalities we use whilee analysing data in our personal-computers, but on the web browser.
 
-- Present JupyterHub service at jupyter.europlanet-gmap.eu
-    - Put printsceens here
-- Present Docker/DockerHub images
-    - Briefly present Dockerfiles/Conda-env files
-    - Written tutorial/steps to have it running
-    - _Remember ISISDATA_
-
-
-Reference links:
-
-- Docker-isis repository: https://github.com/europlanet-gmap/docker-isis3
-- ISIS/ASP repository: https://github.com/europlanet-gmap/PyISIS-Parallel
+- Full text: [`GMAP_WS_2023_JupyterHub.md`](GMAP_WS_2023_JupyterHub.md)
 
 
 ## Data-Portal
@@ -45,16 +34,7 @@ There are many software, services, platforms one can use to publish their scient
 Recently, Zenodo changed their development model into open-source under the name Invenio. Invenio-RDM (Research Data Management) is the open-source, on-premises version of Zenodo.
 At GMAP we deploy an instance of Invenio-RDM publishing our internal data packages (i.e., maps) as well as metadata publications of external data of our interest.
 
-- Present Zenodo and Zenodo Sandbox
-    - How to publish a package
-    - How to consume a package (notebook)
-- Present Invenio and Invenio-test
-    - How to publish a package
-    - Share/teach GMAP metadata
-
-Reference links:
-
-- Invenio docs: https://inveniordm.docs.cern.ch/
+- Full text: [`GMAP_WS_2023_DataPortal.md`](GMAP_WS_2023_DataPortal.md)
 
 
 ## PlanetaryDataUtils
@@ -66,3 +46,10 @@ For instance, it is possible to navigate and download CRISM, CTX, HiRISE, RDR pr
 Processing notebooks include L0 to L2 automated workflow for LRO NAC/WAC, Chandrayaan-1 and HiRISE.
 
 See the HiRISE_L0toL2_processing_winter_school.ipynb in the examples folder.
+
+
+### Reference links:
+
+- Docker-isis repository: https://github.com/europlanet-gmap/docker-isis3
+- ISIS/ASP repository: https://github.com/europlanet-gmap/PyISIS-Parallel
+
