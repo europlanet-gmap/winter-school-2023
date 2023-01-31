@@ -14,7 +14,7 @@ Relevant GMAP services:
 - GMAP Jupyter Hub - https://jupyter.europlanet-gmap.eu
 
 
-## Jupyter-Lab-Hub
+## Jupyter-Hub
 
 Setting up a Python environment for spatial/planetary data analysis can be a tricky task, the necessary sooftware libraries are many and many are _legacy_ software that need very specific settings.
 To simplify the life of planetary data scientists -- primarily to the GMAP community, but not only -- we provide software environments _ready to use_.
@@ -37,7 +37,7 @@ Reference links:
 - ISIS/ASP repository: https://github.com/europlanet-gmap/PyISIS-Parallel
 
 
-## Invenio/Zenodo
+## Data-Portal
 
 Research data management is a very hot topic these days, not only the amount of scientific data grows as we speak but, more importantly, the interest for scientific data has never been so high.
 In the era of _data science_, to manage data reliably is a must.
