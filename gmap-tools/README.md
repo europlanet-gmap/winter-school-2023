@@ -7,12 +7,6 @@ In GMAP we put together a set of tools to facilitate the access and processing o
 The first tool is the Jupyter-Lab-Hub environment with a complete set of Python and command-line tools for planetary data analysis.
 Then, we present the plataform we use for data publication, Invenio-RDM, very similar to the well-known Zenodo.
 
-Relevant GMAP services:
-
-- GMAP Data portal - https://data.europlanet-gmap.eu
-- GMAP wiki - https://wiki.europlanet-gmap.eu
-- GMAP Jupyter Hub - https://jupyter.europlanet-gmap.eu
-
 
 ## Jupyter-Hub
 
@@ -24,6 +18,7 @@ We start by presenting GMAP JupyterHub service -- which is available for the (al
 > Jupyter Notebook is a well-known software for interactive data analysis in the data science community. Primarily developed for the Python language ecosystem, Jupyter Notebook evolved into Jupyter-Lab to provide a graphical interface very similar in functionalities we use whilee analysing data in our personal-computers, but on the web browser.
 
 - Full text: [`GMAP_WS_2023_JupyterHub.md`](GMAP_WS_2023_JupyterHub.md)
+- GMAP Jupyter Hub - https://jupyter.europlanet-gmap.eu
 
 
 ## Data-Portal
@@ -35,6 +30,7 @@ Recently, Zenodo changed their development model into open-source under the name
 At GMAP we deploy an instance of Invenio-RDM publishing our internal data packages (i.e., maps) as well as metadata publications of external data of our interest.
 
 - Full text: [`GMAP_WS_2023_DataPortal.md`](GMAP_WS_2023_DataPortal.md)
+- GMAP Data portal - https://data.europlanet-gmap.eu
 
 
 ## PlanetaryDataUtils
