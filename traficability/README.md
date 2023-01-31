@@ -17,6 +17,11 @@ Wilson, J.P. & Gallant, J.C. (2000): Terrain Analysis - Principles and Applicati
 
 Wood, J. (1996): The Geomorphological characterisation of Digital Elevation Models. Diss., Department of Geography, University of Leicester, UK, available online at: http://hdl.handle.net/2381/34503
 
+### Traverse science applications
+
+Bernhardt, H., Robinson, M. S., & Boyd, A. K. (2022). Geomorphic map and science target identification on the Shackleton-de Gerlache ridge. Icarus, 379, 114963.
+
+Kramer, G. Y., Kring, D. A., Nahm, A. L., & Pieters, C. M. (2013). Spectral and photogeologic mapping of Schrödinger Basin and implications for post-South Pole-Aitken impact deep subsurface stratigraphy. Icarus, 223(1), 131-148.
 
 ## QProf QGIS Plugin 
 
