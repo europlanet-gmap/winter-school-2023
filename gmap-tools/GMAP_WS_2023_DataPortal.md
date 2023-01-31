@@ -15,7 +15,6 @@ GMAP Data Portal is an instance of InvenioRDM, the open-source software behind Z
 - What is Zenodo, and why do we need it?
 - GMAP Data Portal
 - What are metadata for planetary data?
-- Publish a demo package
 - Access data from Zenodo
 - Access data from ADAM
 
