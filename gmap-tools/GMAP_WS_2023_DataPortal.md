@@ -12,9 +12,9 @@ GMAP Data Portal is an instance of InvenioRDM, the open-source software behind Z
 
 ### Roadmap
 
-- Data Management, and why do we need it?
+- Research Data Management
 - GMAP Data Portal
-- What are metadata for planetary data?
+- Planetary data metadata
 - Access data from Zenodo
 - Access data from ADAM
 
