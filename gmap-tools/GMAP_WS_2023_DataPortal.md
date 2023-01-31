@@ -12,16 +12,18 @@ GMAP Data Portal is an instance of InvenioRDM, the open-source software behind Z
 
 ### Roadmap
 
-- What is Zenodo, and why do we need it?
+- Data Management, and why do we need it?
 - GMAP Data Portal
 - What are metadata for planetary data?
 - Access data from Zenodo
 - Access data from ADAM
 
 
-## Zenodo
+## Research Data Management
 
-The general definition of Zenodo (https://zenodo.org) is: a platform for digital resources publication. Resources can be data, articles, software, or any other digital media. Zenodo is primarily meant to store scientific research products, though there no restrictions about the type, structure, or number of files associated to each publication. Zenodo is _not_ the only _research data management_ (RDM) platform (as this kind of software is called), but probably the best known (in Europe).
+Research Data Management (RDM) software/platform are used to share updated versions of data sets. Probably the best known RDM, at least in Europe, is Zenodo.
+
+The general definition of Zenodo (https://zenodo.org) is: a platform for digital resources publication. Resources can be data, articles, software, or any other digital media. Zenodo is primarily meant to store scientific research products, though there no restrictions about the type, structure, or number of files associated to each publication.
 
 Other RDM software are Harvard's Dataverse (https://data.harvard.edu/), Figshare (https://figshare.com/), Open Source Framework (https://osf.io), CKAN (https://ckan.org/), and InvenioRDM (https://inveniordm.docs.cern.ch/).
 
