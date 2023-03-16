@@ -55,8 +55,7 @@ http://voparis-vespa-crs.obspm.fr:8080/ws/wkts/IAU:2015:49900 (WKT string)
 Implementations to create and use these codes besides that web service:
 
 * Code behind the code wkt: https://github.com/pdssp/csvforwkt
-* 
-docker for site: https://github.com/pdssp/planet_crs_registry
+* docker for site: https://github.com/pdssp/planet_crs_registry
 
 Code is also PROJ/GDAL: https://github.com/OSGeo/PROJ/blob/master/scripts/build_db_from_iau.py
 
