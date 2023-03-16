@@ -79,6 +79,8 @@ Lunar Simple Cylindrical is:
 
 # References and suggested readings
 
+Archinal, B. A., et al. (2018). Report of the IAU working group on cartographic coordinates and rotational elements: 2015. Celestial Mechanics and Dynamical Astronomy, 130, 1-46. https://doi.org/10.1007/s10569-017-9805-5 - https://astrogeology.usgs.gov/search/map/Docs/WGCCRE/WGCCRE2015reprint
+
 Georgiadou, P.Y., Knippers, R.A., Kraak, M.J., Sun, Y., Weir, M.J.C. and van Westen, C.J. Principles of geographic information systems (Chapter 4.2 on spatial referencing), 2nd edition, ITC Educational Textbook, ITC, Enschede, 2001. Available online at https://webapps.itc.utwente.nl/librarywww/papers_2009/general/principlesgis.pdf 
 
 Hare, T.M., Skinner, J.A., Kirk, R.L. (2018). Cartography Tools. In: Rossi, A., van Gasselt, S. (eds) Planetary Geology. Springer Praxis Books(). Springer, Cham. https://doi.org/10.1007/978-3-319-65179-8_4
