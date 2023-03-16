@@ -40,6 +40,35 @@ Some examples on:
 
 ## Web services 
 
+### OGC Resolver
+
+Info courtesy Trent Hare (USGS)
+
+* http://www.opengis.net/def/crs/IAU/2015 - http://voparis-vespa-crs.obspm.fr:8080/web/
+
+Examples: 
+
+* e.g. Mars codes: http://voparis-vespa-crs.obspm.fr:8080/web/mars.html
+* Mars as a sphere examples call:
+http://voparis-vespa-crs.obspm.fr:8080/ws/wkts/IAU:2015:49900 (WKT string)
+
+Implementations to create and use these codes besides that web service:
+
+* Code behind the code wkt: https://github.com/pdssp/csvforwkt
+* 
+docker for site: https://github.com/pdssp/planet_crs_registry
+
+Code is also PROJ/GDAL: https://github.com/OSGeo/PROJ/blob/master/scripts/build_db_from_iau.py
+
+Lunar South Pole:
+```projinfo -o all --single-line IAU_2015:30135```
+
+Lunar Simple Cylindrical is:
+```projinfo -o all --single-line IAU_2015:30110```
+
+
+
+
 * https://projectionwizard.org
 * http://countrymovers.elte.hu/countrymovers.html
 * https://www.giss.nasa.gov/tools/gprojector/
@@ -55,7 +84,7 @@ Georgiadou, P.Y., Knippers, R.A., Kraak, M.J., Sun, Y., Weir, M.J.C. and van Wes
 
 Hare, T.M., Skinner, J.A., Kirk, R.L. (2018). Cartography Tools. In: Rossi, A., van Gasselt, S. (eds) Planetary Geology. Springer Praxis Books(). Springer, Cham. https://doi.org/10.1007/978-3-319-65179-8_4
 
-Hare, T. M., & Malapert, J. C. (2021). Standards Proposal for 2021 to Support Planetary Coordinate Reference Systems for Open Geospatial Web Services. LPI Contributions, 2549, [7012](https://www.hou.usra.edu/meetings/planetdata2021/pdf/7012.pdf) - http://voparis-vespa-crs.obspm.fr:8080/web/
+Hare, T. M., & Malapert, J. C. (2021). Standards Proposal for 2021 to Support Planetary Coordinate Reference Systems for Open Geospatial Web Services. LPI Contributions, 2549, [7012](https://www.hou.usra.edu/meetings/planetdata2021/pdf/7012.pdf) - http://voparis-vespa-crs.obspm.fr:8080/web/ - http://www.opengis.net/def/crs/IAU/2015
 
 Hargitai, H., Wang, J., Stooke, P.J., Karachevtseva, I., Kereszturi, A., Gede, M. (2017). Map Projections in Planetary Cartography. In: Lapaine, M., Usery, E. (eds) Choosing a Map Projection. Lecture Notes in Geoinformation and Cartography(). Springer, Cham. https://doi.org/10.1007/978-3-319-51835-0_7 
 
